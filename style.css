@@ -4,3 +4,9 @@ h1{
 li{
   color: brown;
 }
+.container{
+  background-color: cadetblue;
+}
+main{
+  gap: 10px;
+}
